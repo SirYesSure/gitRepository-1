@@ -7,7 +7,7 @@ public class Hello {
 		System.out.println("Hello java");	
 		
 		//아무거나
-		
+		// ? 내가 수정해도 되나?
 	}
 
 }
